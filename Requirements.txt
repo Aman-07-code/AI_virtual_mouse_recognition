@@ -1,0 +1,7 @@
+Python --> 3.7.6
+mediapipe(Version) == 0.8.8
+opencv
+time
+math
+autopy
+numpy
